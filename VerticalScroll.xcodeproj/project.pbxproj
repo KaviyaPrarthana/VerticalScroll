@@ -15,6 +15,7 @@
 		672E3EBE25B9673C00952757 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 672E3EBC25B9673C00952757 /* LaunchScreen.storyboard */; };
 		672E3EC925B9673C00952757 /* VerticalScrollTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672E3EC825B9673C00952757 /* VerticalScrollTests.swift */; };
 		672E3ED425B9673C00952757 /* VerticalScrollUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672E3ED325B9673C00952757 /* VerticalScrollUITests.swift */; };
+		672E3EE525B9677A00952757 /* FirstCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672E3EE425B9677A00952757 /* FirstCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		672E3ECF25B9673C00952757 /* VerticalScrollUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VerticalScrollUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		672E3ED325B9673C00952757 /* VerticalScrollUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticalScrollUITests.swift; sourceTree = "<group>"; };
 		672E3ED525B9673C00952757 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		672E3EE425B9677A00952757 /* FirstCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				672E3EB125B9673B00952757 /* AppDelegate.swift */,
 				672E3EB325B9673B00952757 /* SceneDelegate.swift */,
 				672E3EB525B9673B00952757 /* ViewController.swift */,
+				672E3EE425B9677A00952757 /* FirstCollectionViewCell.swift */,
 				672E3EB725B9673B00952757 /* Main.storyboard */,
 				672E3EBA25B9673C00952757 /* Assets.xcassets */,
 				672E3EBC25B9673C00952757 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				672E3EB625B9673B00952757 /* ViewController.swift in Sources */,
 				672E3EB225B9673B00952757 /* AppDelegate.swift in Sources */,
 				672E3EB425B9673B00952757 /* SceneDelegate.swift in Sources */,
+				672E3EE525B9677A00952757 /* FirstCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
